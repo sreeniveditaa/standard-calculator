@@ -101,6 +101,7 @@ hom.html
 </html>
 ```
 ## OUTPUT:
+![image](https://github.com/sreeniveditaa/standard-calculator/assets/147473268/9389bd79-05fb-438d-bfa4-a02191af73d4)
 
 ## Result:
 The standard calculator has been created succesfully.
